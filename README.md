@@ -1,4 +1,6 @@
--  Hi, I’m @dboini2
+-  Hi, I’m Devakar Boini.
+-  currently operating in C, C++, x86-64 asm
+-  working on low-level optimization.
 - 
 
 <!---
