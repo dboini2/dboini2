@@ -1,7 +1,7 @@
 -  Hi, I’m Devakar B.
--  currently operating in C, C++, x86-64 asm
--  working on low-level optimization.
--  Have studied low level languages, and advanced memory usage.
+-  currently operating in C, C++, x86-64 asm. Optimizations important!
+-  working on low-level optimization, for improving use of low power hardware.
+-  Have studied low level languages, and advanced memory usage, looking foward to optimizing NN memory usage.
   
 -  
 
